@@ -1,0 +1,3 @@
+void checkLeds(){
+    //hidKeyboard.getLeds();
+}
